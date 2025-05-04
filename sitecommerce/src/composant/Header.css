@@ -1,0 +1,30 @@
+.header {
+    width: 100%;
+  }
+  
+  .top-bar {
+    background-color: #37c5aa;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    font-size: 12px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-weight: bold;
+  }
+  
+  .links a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+  }
+  

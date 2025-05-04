@@ -1,0 +1,52 @@
+.articles-section {
+    background-color: #41c7b9;
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .articles-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .articles-section p {
+    font-size: 1.2rem;
+  }
+
+  .img1{
+    width: 20%;
+    height : 25%;
+    margin-right : 50px; 
+  }
+
+  .img2{
+    width: 20%;
+    height : 25%;
+    margin-right : 100px; 
+  }
+
+  .img3{
+    width: 20%;
+    height : 25%;
+    margin-right : 50px; 
+  }
+
+  .img4{
+    width: 20%;
+    height : 25%;
+    margin-right : 50px; 
+  }
+
+  .img5{
+    width: 20%;
+    height : 25%;
+    margin-right : 50px; 
+  }
+
+  .img6{
+    width: 20%;
+    height : 25%;
+    margin-right : 50px; 
+  }
+  
